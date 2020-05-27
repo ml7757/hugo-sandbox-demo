@@ -1,5 +1,6 @@
 ---
 title: "Ein Virus versetzt die Welt in Aufruhr"
+image: //via.placeholder.com/400x300
 date: 2020-05-26T17:25:32+02:00
 draft: true
 tags: ["COVID-19"]

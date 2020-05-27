@@ -1,5 +1,6 @@
 ---
 title: "Wer hilft den gestrandeten Kindern von Moria?"
+image: //via.placeholder.com/400x300
 date: 2020-05-26T17:07:10+02:00
 draft: true
 tags: ["Migration"]

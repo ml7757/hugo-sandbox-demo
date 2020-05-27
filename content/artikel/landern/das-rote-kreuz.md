@@ -1,5 +1,6 @@
 ---
 title: "Heute ist: Overshoot-Day, 75 Jahre Ende des Zweiten Weltkriegs und Welttag des Roten Kreuzes"
+image: //via.placeholder.com/400x300
 date: 2020-05-26T17:32:18+02:00
 draft: true
 tags: ["Schweiz"]

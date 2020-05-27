@@ -1,5 +1,6 @@
 ---
 title: "Nach dem Brexit folgte der Megxit"
+image: //via.placeholder.com/400x300
 date: 2020-05-26T17:22:43+02:00
 draft: true
 tags: ["Personen"]
