@@ -1,5 +1,5 @@
 ---
 title: "Artikel"
-draft: true
+draft: false
 layout: categories_overview
 ---

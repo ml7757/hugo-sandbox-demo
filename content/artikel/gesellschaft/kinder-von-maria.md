@@ -3,7 +3,7 @@ title: "Wer hilft den gestrandeten Kindern von Moria?"
 slug:
 image: "images/kids-min.jpg"
 date: 2020-05-26T17:07:10+02:00
-draft: true
+draft: false
 tags: ["Migration"]
 categories: ["Gesellschaft"]
 author: Oliver

@@ -2,7 +2,7 @@
 title: "Dem Untergang geweiht?  – Bootsflüchtlinge auf dem Weg nach Europa"
 image: "images/boat_bw-min.jpg"
 date: 2020-05-26T17:16:38+02:00
-draft: true
+draft: false
 tags: ["Migration"]
 categories: ["Gesellschaft"]
 ---

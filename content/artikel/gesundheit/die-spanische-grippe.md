@@ -3,7 +3,7 @@ title: "Heute: Corona. Vor 100 Jahren? Spanische Grippe"
 slug: die-spanische-grippe
 image: "images/grippe10-min.jpg"
 date: 2020-05-27T13:59:12+02:00
-draft: true
+draft: false
 tags: ["Krankheiten"]
 categories: ["Gesundheit"]
 author: od

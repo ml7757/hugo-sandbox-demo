@@ -2,7 +2,7 @@
 title: "Nach dem Brexit folgte der Megxit"
 image: "images/megxit-min.jpg"
 date: 2020-05-26T17:22:43+02:00
-draft: true
+draft: false
 tags: ["Personen"]
 categories: ["Gesellschaft"]
 ---

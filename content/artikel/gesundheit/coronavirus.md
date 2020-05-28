@@ -2,7 +2,7 @@
 title: "Ein Virus versetzt die Welt in Aufruhr"
 image: "images/covid-min.jpg"
 date: 2020-05-26T17:25:32+02:00
-draft: true
+draft: false
 tags: ["COVID-19"]
 categories: ["Gesundheit"]
 ---
