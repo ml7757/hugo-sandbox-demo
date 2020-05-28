@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: author
+pages:
+- content/artikel/gesundheit/verfolgt-oder-einfach-beschutzt.md
