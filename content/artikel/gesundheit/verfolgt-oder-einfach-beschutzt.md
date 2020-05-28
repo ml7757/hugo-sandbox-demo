@@ -1,10 +1,11 @@
 +++
 author = "SB"
-categories = []
+categories = ["Gesundheit"]
 date = 2020-05-27T22:00:00Z
 draft = true
-image = ""
-tags = []
+image = "/images/app.jpg"
+slug = "covid-tracing-app"
+tags = ["COVID-19"]
 title = "Verfolgt oder einfach beschützt?"
 
 +++
