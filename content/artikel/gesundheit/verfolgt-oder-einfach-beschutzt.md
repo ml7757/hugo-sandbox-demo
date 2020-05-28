@@ -2,7 +2,6 @@
 author = "SB"
 categories = ["Gesundheit"]
 date = 2020-05-27T22:00:00Z
-draft = true
 image = "/images/app.jpg"
 slug = "covid-tracing-app"
 tags = ["COVID-19"]
