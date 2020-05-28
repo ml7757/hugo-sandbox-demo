@@ -1,10 +1,12 @@
 ---
 title: "Wer hilft den gestrandeten Kindern von Moria?"
-image: //via.placeholder.com/400x300
+slug:
+image: "images/kids-min.jpg"
 date: 2020-05-26T17:07:10+02:00
 draft: true
 tags: ["Migration"]
 categories: ["Gesellschaft"]
+author: Oliver
 ---
 
 Tausende Kinder hängen auf der griechischen Insel Lesbos im Flüchtlingslager Moria fest. Sie kämpfen gegen Hunger, Krankheiten, fehlende Betreuung und Überforderung der Eltern.
