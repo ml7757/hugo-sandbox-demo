@@ -22,5 +22,11 @@ fields:
   config:
     required: false
   label: author
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+  description: what you want the link to look like
 pages:
 - content/artikel/gesundheit/verfolgt-oder-einfach-beschutzt.md
