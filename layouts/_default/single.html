@@ -7,7 +7,7 @@
 			<span class="article__date">Published {{ dateFormat "Jan 2, 2006" .Date }}</span>
 		</div>
 		<figure class="img__container">
-			<img src="{{ .Params.image | relURL }}" class="article__img">
+			<img src="{{ .Params.imageMain | relURL }}" class="article__img">
 			<figcaption>Put text here for the image</figcaption>
 		</figure>
 		<div class="article__content">{{.Content}}</div>

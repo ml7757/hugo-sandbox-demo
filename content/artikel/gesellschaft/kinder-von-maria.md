@@ -1,7 +1,8 @@
 ---
 title: "Wer hilft den gestrandeten Kindern von Moria?"
 slug:
-image: "images/kids-min.jpg"
+imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781772/kids-min_vno5bh.jpg"
+imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781772/kids-min_vno5bh.jpg"
 date: 2020-05-26T17:07:10+02:00
 draft: false
 tags: ["Migration"]

@@ -1,6 +1,7 @@
 ---
 title: "Ein Virus versetzt die Welt in Aufruhr"
-image: "images/covid-min.jpg"
+imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781765/covid-min_lj2kus.jpg"
+imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781765/covid-min_lj2kus.jpg"
 date: 2020-05-26T17:25:32+02:00
 draft: false
 tags: ["COVID-19"]

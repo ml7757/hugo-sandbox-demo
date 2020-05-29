@@ -2,7 +2,8 @@
 author = "SB"
 categories = ["Gesundheit"]
 date = 2020-05-27T22:00:00Z
-image = "/images/app.jpg"
+imageMain = "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781752/app_u9r6pp.jpg"
+imageThumb = "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781752/app_u9r6pp.jpg"
 slug = "covid-tracing-app"
 tags = ["COVID-19"]
 title = "Verfolgt oder einfach beschützt?"

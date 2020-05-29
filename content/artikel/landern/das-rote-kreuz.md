@@ -1,6 +1,7 @@
 ---
 title: "Heute ist: Overshoot-Day, 75 Jahre Ende des Zweiten Weltkriegs und Welttag des Roten Kreuzes"
-image: "images/red-cross-min.jpg"
+imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781778/red-cross-min_aw9bas.jpg"
+imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781778/red-cross-min_aw9bas.jpg"
 date: 2020-05-26T17:32:18+02:00
 draft: false
 tags: ["Schweiz"]

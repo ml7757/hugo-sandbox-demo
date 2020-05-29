@@ -1,6 +1,7 @@
 ---
 title: "Nach dem Brexit folgte der Megxit"
-image: "images/megxit-min.jpg"
+imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781775/megxit-min_vluvsu.jpg"
+imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781775/megxit-min_vluvsu.jpg"
 date: 2020-05-26T17:22:43+02:00
 draft: false
 tags: ["Personen"]
