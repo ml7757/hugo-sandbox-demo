@@ -5,4 +5,4 @@ draft: false
 layout: about
 ---
 
-About Chinderzytig
+Here is some content listed on the about page.
