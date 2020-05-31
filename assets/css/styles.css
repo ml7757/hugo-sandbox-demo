@@ -94,7 +94,11 @@ SINGLE PAGE
 }
 
 .article__content {
-	margin-bottom: 100px;
+	margin-bottom: 60px;
+}
+
+.article__comments {
+	width: 100%;
 }
 
 /*-----------------------------
