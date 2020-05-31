@@ -11,5 +11,9 @@
 			<figcaption>Put text here for the image</figcaption>
 		</figure>
 		<div class="article__content">{{.Content}}</div>
+		<div class="article__comments">
+			<h3>Comments</h3>
+			{{ template "_internal/disqus.html" . }}
+		</div>
 	</div>
 {{end}}

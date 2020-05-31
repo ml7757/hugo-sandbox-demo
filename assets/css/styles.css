@@ -93,6 +93,10 @@ SINGLE PAGE
 	max-height: 100%;
 }
 
+.article__content {
+	margin-bottom: 100px;
+}
+
 /*-----------------------------
 FOOTER
 -----------------------------*/
