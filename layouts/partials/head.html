@@ -2,6 +2,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ .Site.Title }}</title>
-	{{ $css := resources.Get "css/styles.css" | minify | fingerprint }}
-	<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+	{{ $options := (dict "targetPath" "styles.css" "outputStyle" "compressed") }}
+	{{ $style := resources.Get "sass/main.scss" | resources.ToCSS $options }}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 </head>
