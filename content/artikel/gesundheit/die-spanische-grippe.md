@@ -1,16 +1,17 @@
 ---
-title: "Heute: Corona. Vor 100 Jahren? Spanische Grippe"
+title: 'Heute: Corona. Vor 100 Jahren? Spanische Grippe'
 slug: die-spanische-grippe
-imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781769/grippe10-min_ey2ieq.jpg"
-imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781769/grippe10-min_ey2ieq.jpg"
-date: 2020-05-27T13:59:12+02:00
-draft: false
-tags: ["Krankheiten"]
-categories: ["Gesundheit"]
+imageMain: https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781769/grippe10-min_ey2ieq.jpg
+imageThumb: https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781769/grippe10-min_ey2ieq.jpg
+date: 2020-05-27T11:59:12.000+00:00
+tags:
+- Krankheiten
+categories:
+- Gesundheit
 author: od
----
 
-Heute: Corona. Vor 100 Jahren? Spanische Grippe
+---
+**Heute: Corona. Vor 100 Jahren? Spanische Grippe**
 
 Durch den Coronavirus erinnern wir uns wieder an alte Seuchen und Pandemien. Eine davon ist die Spanische Grippe. Sie ist die grösste und die wohl schlimmste Pandemie des 20. Jahrhundert. Doch wie kam es dazu und was können wir daraus lernen?
 
@@ -20,7 +21,7 @@ Auch das noch...
 
 Wo und wann  sie genau zuerst auftrat ist unbekannt. Auch die erste Welle  war noch sehr unscheinbar, da sie unter den Millionen Toten des Krieges unterging. Erst die zweite Welle im späten Jahr 1918 traf die Welt wirklich verheerend. Allein in den USA starben in einer Woche 21'000 Menschen. Das US-Militär verlor mehr Soldaten als im gesamten 1. Weltkrieg. Auf kleinen Inseln mit einem schlechtem Gesundheitssystem starben etwa jede fünfte Person der Bevölkerung. Danach folgte 1919 nochmal eine kleinere Welle mit Grippetoten. Diese fiel aber eher klein aus.
 
-Corona ähnelt...
+# Corona ähnelt...
 
 Die Symptome bei der Spanischen Grippe sind Glieder und Kopfschmerzen mit hohem Fieber. In schweren Fällen, wie beim Corona Virus entwickelt sich daraus eine Lungenentzündung, die tödlich sein kann. Und im Gegensatz zum Corona Virus starben nicht die Alten und Kranke, sondern  vor allem Gesunde und Kinder.
 

@@ -30,13 +30,22 @@ LIST PAGE
 
 .card__card {
 	width: 305px;
+	border-radius: 5px;
+	overflow: hidden;
 	background-color: #f6f6f6;
+	transition: all 0.2s;
+}
+
+.card__card:hover {
+	background-color: #000;
+	color: #fff;
 }
 
 .image__container {
 	width: 305px;
 	height: 203px;
 }
+
 
 .card__image {
 	max-width: 100%;
@@ -81,11 +90,6 @@ SINGLE PAGE
 	flex-direction: column;
 	align-items: center;
 	margin: 0 20%;
-}
-
-.img__container {
-	width: 640px;
-	height: 470px;
 }
 
 .article__img {
