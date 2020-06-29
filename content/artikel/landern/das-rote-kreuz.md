@@ -7,6 +7,7 @@ date: 2020-05-26T17:32:18.000+02:00
 tags:
 - Schweiz
 - schweiz
+- Schweiz
 categories:
 - Geografie
 
