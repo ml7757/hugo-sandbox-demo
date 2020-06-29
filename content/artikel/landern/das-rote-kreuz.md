@@ -1,16 +1,20 @@
 ---
-title: "Heute ist: Overshoot-Day, 75 Jahre Ende des Zweiten Weltkriegs und Welttag des Roten Kreuzes"
-imageMain: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781778/red-cross-min_aw9bas.jpg"
-imageThumb: "https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781778/red-cross-min_aw9bas.jpg"
-date: 2020-05-26T17:32:18+02:00
-draft: false
-tags: ["Schweiz"]
-categories: ["Geografie"]
----
+title: 'Heute ist: Overshoot-Day, 75 Jahre Ende des Zweiten Weltkriegs und Welttag
+  des Roten Kreuzes'
+imageMain: https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1590781778/red-cross-min_aw9bas.jpg
+imageThumb: https://res.cloudinary.com/chin-demo/image/upload/t_artikel-thumb/v1590781778/red-cross-min_aw9bas.jpg
+date: 2020-05-26T17:32:18.000+02:00
+tags:
+- Schweiz
+categories:
+- Geografie
 
+---
 Über jedes Ereignis könnte man ganze Bücher schreiben. Heute vor 75 ging der Zweite Weltkrieg offiziell zu Ende. Dieser riesige Krieg ist eine Geschichte für sich, ein grosses, menschliches Desaster. Heute ist auch der Overshoot-Day in der Schweiz: Das heisst, wir benötigen ab heute mehr biologische Rohstoffe in der Schweiz, als uns die Erde eigentlich zur Verfügung stellt. Man sagt dem Tag auch "Welterschöpfungstag". Ein weiteres, menschliches Desaster. Abhilfe schaffen kann man zum Beispiel mit Food-Waste-Bekämpfung und so weiter... Und heute ist auch der Weltrotkreuztag. Jedes Kind kennt das Rote Kreuz. Doch, was ist das genau? Wer steht dahinter? Seit wann existiert es? Zum Welttag des Roten Kreuzes, der jedes Jahr am 8. Mai gefeiert wird, beleuchten wir diese grossartige Sache. Kein weiteres, menschliches Desaster!
 
 Über 13 Millionen Freiwillige weltweit helfen mit, um menschliches Leid zu lindern. Das Rote Kreuz hilft, wo Hilfe benötigt wird. Das ist das Ziel. Zentrale Eigenschaften des Roten Kreuzes sind Menschlichkeit, Neutralität und Freiwilligkeit.
+
+![](https://res.cloudinary.com/chin-demo/image/upload/t_artikel-main/v1593415963/nick-fewings-4pZu15OeTXA-unsplash_brlclz.jpg)
 
 Bereits seit 1828 hilft das Schweizerische Rote Kreuz. Weltweit als äusserst wichtige Institution wahrgenommen wird es erstmals während dem Ersten Weltkrieg. Dieser fand zwischen 1914 bis 1918 statt. Das Ausmass der Verwundeten war dermassen gross, dass das Schweizerische Rote Kreuz vor neuen Herausforderungen stand. Als Spitze der helfenden Massnahmen der Schweiz, die im Krieg nicht aktiv beteiligt gewesen ist, war das SRK besonders aktiv. Es entstanden in diesen Jahren mehrere Bündnisse mit neuen Vereinigungen des Roten Kreuzes im Ausland, weshalb die Zusammenarbeit grösser wurde. Dies kam nicht zuletzt im Kampf gegen die Spanische Grippe (um 1920) der Menschheit zu Gute.
 
